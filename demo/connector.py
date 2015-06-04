@@ -12,7 +12,7 @@ class Connector(object):
     # flag this method as missing. Try
     # putting it in and you'll see the
     # error going away.
-#    def connect( b ):
+#    def connect( self, port ):
 #        pass
 
 def main():
