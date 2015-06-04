@@ -16,7 +16,7 @@ class Connector(object):
 #        pass
 
 def main():
-    from iverifier import iverifier
+    import iverifier
     iverifier.verifyInterfaces()
 
 if __name__ == "__main__":
