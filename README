@@ -1,0 +1,4 @@
+Just a simple thing I rigged up to see if I could implement
+a method that could be added to the "__main__" of any module,
+to check that all classes that claimed to implement interfaces
+in fact did so fully.
