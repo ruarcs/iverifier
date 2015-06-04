@@ -11,8 +11,8 @@ class Connector(object):
 #        pass
 
 def main():
-    from iverifier import verifyInterfaces
-    verifyInterfaces()
+    from iverifier import iverifier
+    iverifier.verifyInterfaces()
 
 if __name__ == "__main__":
     main()
